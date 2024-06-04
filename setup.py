@@ -27,9 +27,9 @@ setup(
         "Topic :: Software Development :: Testing",
     ],
     license="BSD License",
-    author='Thorsten Lockert',
-    author_email='tholo@sigmasoft.com',
-    url='https://github.com/tholo/pytest-flake8',
+    author='Brian Thompson',
+    author_email='brianrobt@pm.me',
+    url='https://github.com/brianrobt/pytest-flake8',
     py_modules=[
         'pytest_flake8',
     ],

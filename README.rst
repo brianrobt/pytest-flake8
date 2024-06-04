@@ -22,6 +22,10 @@ pytest plugin for efficiently checking PEP8 compliance
 .. image:: https://img.shields.io/github/issues-pr/tholo/pytest-flake8.svg
     :target: https://github.com/tholo/pytest-flake8/pulls
 
+Original author: Thorsten Lockert
+Original author's email: tholo@sigmasoft.com
+Forked from: https://github.com/tholo/pytest-flake8
+
 Usage
 -----
 
